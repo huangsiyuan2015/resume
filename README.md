@@ -12,7 +12,7 @@
 - 熟练掌握 JavaScript、CSS、HTML，熟悉 ES6 语法，具备扎实的基础知识
 - 熟练掌握 React、React-Router、Redux 全家桶以及相关生态，能够进行前端组件化开发
 - 熟悉 HTTP 协议，掌握使用 axios、fetch 发送网络请求，能够使用 postman 测试前后端数据接口
-- 熟悉 Node.js，掌握使用 npm、yarn 等包管理器，使用过 Express.js、Egg.js 等服务端框架，了解前后端数据交互的过程
+- 熟悉 Node.js，使用过 Express.js、Egg.js 等服务端框架，了解前后端数据交互的过程
 - 熟练使用 git 对代码进行版本控制，能够书写符合规范的 commit message
 
 ## 项目经验
@@ -30,7 +30,7 @@
 
 - 前端代码：https://github.com/huangsiyuan2015/cost-book-client
 - 后端代码：https://github.com/huangsiyuan2015/cost-book-server
-- 在线预览：https://cost-book-client.pages.dev/ （没有数据？[请点这里](https://blog.51cto.com/u_15127618/3959547)）
+- 在线预览：https://cost-book-client.pages.dev/ (没有数据？[请点这里](https://blog.51cto.com/u_15127618/3959547))
 
 **任务管理系统(PC端)**
 
@@ -44,7 +44,7 @@
   - 看板模块：看板中的任务能够按照筛选条件过滤显示；对看板进行添加/删除，拖动看板顺序；在看板中添加/删除/修改任务，拖动任务顺序
 
 - 开源地址：https://github.com/huangsiyuan2015/jira-react-hook
-- 在线预览：https://jira-react-hook.pages.dev/ （没有数据？[请点这里](https://blog.51cto.com/u_15127618/3959547)）
+- 在线预览：https://jira-react-hook.pages.dev/ (没有数据？[请点这里](https://blog.51cto.com/u_15127618/3959547))
 
 ## 工作经历
 
